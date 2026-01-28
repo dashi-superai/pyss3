@@ -14,6 +14,7 @@ AUTHOR_EMAIL = 'sergio.burdisso@gmail.com, sburdisso@unsl.edu.ar'
 URL = "https://github.com/sergioburdisso/pyss3"
 LICENSE = "MIT License"
 
+
 CLASSIFIERS = ['Programming Language :: Python',
                'Programming Language :: Python :: 3',
                'Programming Language :: Python :: 3.5',
